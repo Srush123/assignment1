@@ -7,7 +7,7 @@ function Navbar() {
         <nav>
             <ul className="Navbarstyle">
 
-                <Link to="/">
+                <Link to="/assignment1">
                 <li className="Navbarelements ">HOME</li> 
                 </Link>
                 <Link to="/Contactus">
